@@ -1,0 +1,5 @@
+# Homefit
+
+if [ -d "$HOME/source/homefit" ] ; then
+  PATH="$PATH:$HOME/source/homefit"
+fi
